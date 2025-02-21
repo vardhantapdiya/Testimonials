@@ -1,8 +1,6 @@
-# React + Vite
+<h1>Testimonials</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3>This is a minimalistic and attractive Testimonial Section that I created using REACT</h3>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p>Most of the businesses need some testimonials of past customers to establish trust and reliabilty which is needed to gain new customers. A good way is to showcase reviews about your product/service on your website. Feel free to use and tweak this code as you like. </p>
